@@ -409,3 +409,4 @@ title(return_of_the_jedi).
 
 %movie title pairing
 title_of(the_phatom_menace, star_wars1).
+title_of(a_new_hope, star_wars4).
