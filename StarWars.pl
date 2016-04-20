@@ -1,7 +1,6 @@
 % Name: Landon Soriano
 
 
-/* NOTE: This file is just a starting point! It is very much incomplete. You will have to modify the given clauses, and add new ones.
 
 Try these:
 
