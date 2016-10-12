@@ -1,3 +1,3 @@
 # starWars
 
-A basic guessing game with a prolog. More features will be added daily.
+A simple Artificial intelligence guessing game created in prolog about the Star Wars films. More features will be added daily.
